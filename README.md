@@ -12,3 +12,8 @@ Trabajar con SQL desde un notebook en VS Code es una práctica moderna y poderos
 - **Automatización sencilla:** Desde Python puedes automatizar tareas con SQL como actualización de datos, filtrado, o envío de reportes.
 
 - **Versatilidad en entornos remotos:** No estás limitado a una sola interfaz; puedes conectarte a múltiples tipos de bases de datos (PostgreSQL, MySQL, SQLite, Redshift, etc.) desde un solo entorno.
+
+---
+## duckdb y .query()
+
+En otro notebook hay prácticas utilizando consultas SQL a traves del metodo **.query()** y utilizando la librería **duckdb**
